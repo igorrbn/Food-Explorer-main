@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center"><a href="https://food3xplorer.netlify.app/">Food Explorer - Rocketseat Explorer :rocket: </a></h1>
+  <h1 align="center"><a href="https://foodexplorerr.netlify.app/">Food Explorer - Rocketseat Explorer :rocket: </a></h1>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@ ___
 ## 💻 Sobre
 O Food Explorer é uma aplicação web de um restaurante. Após se cadastrar na plataforma o usuário poderá fazer pedidos e acompanhar o status dele. O carrinho é 100% funcional e o usuário pode escolher entre 2 formas de pagamento (cartão ou Pix). O Administrador terá a capacidade de criar/editar/remover os pratos da forma que desejar. Ele poderá ainda alterar o status dos pedidos, de acordo com a linha de preparo dos mesmos na cozinha. Este status será imediatamente atualizado na tela dos consumidores. O projeto conta com a possibilidade de mudança de tema da página, customização do perfil do usuário (avatar, nome e senha), conta ainda com diversos efeitos visuais e o mais importante de tudo: É responsivo para a utilização em diversos tipos de dispositivos!
 
-Este repositório contém os dados do Frontend da minha aplicação em React.js e do BackEnd em Node.js.
+Este repositório contém os dados do Frontend em React.js.
 
 ___
 
@@ -61,23 +61,6 @@ $ git clone git@github.com:andreviapiana/Food-Explorer.git
 ```
 ___
 
-#### 🚧 Executando o BackEnd
-```bash
-# No BackEnd insira uma porta e um secret no arquivo .env vazio
-  AUTH_SECRET=
-  PORT=
-
-# Navegue até o diretório do BackEnd
-$ cd food-explorer-backend
-
-# Instale as dependências necessárias
-$ npm install
-
-# Agora inicie o servidor do BackEnd
-$ npm run dev
-```
-___
-
 #### 💻 Executando o FrontEnd
 ```bash
 # Navegue até o diretório do FrontEnd
@@ -112,4 +95,4 @@ Se você está tentando acessar o site e o BackEnd não responde, apenas aguarde
 <br>
 Esta etapa poderá demorar até 1 minuto, dependendo da carga nos servidores do Render.
 
-[O resultado FINAL pode ser visto aqui](https://food3xplorer.netlify.app/)
+[O resultado FINAL pode ser visto aqui](https://foodexplorerr.netlify.app/)
